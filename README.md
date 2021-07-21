@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @shahid554418
 - 👀 I’m interested in web development & web engineering
+- ✨ I’m can develop a web application using Yii2 php framework.
+- ✨ Using Yii2 Framework currently I’m working on my FYP.
 - 🌱 I’m currently learning a framework which is used for web development known as laraval
 - 💞️ I’m looking to collaborate on web development
 - 📫 you can easily contact me through email= shahid554418@gmail.com 
